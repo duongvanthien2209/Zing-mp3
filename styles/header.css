@@ -21,7 +21,7 @@ a {
     .header-top {
         display: flex;
         align-items: center;
-        padding: 20px;
+        padding: 20px 0px;
     }
 
     .header-top img {
@@ -85,7 +85,7 @@ a {
     .header-main ul {
         list-style-type: none;
         display: flex;
-        padding: 0px 20px;
+        padding: 0px;
     }
 
     .header-main-item {
@@ -127,6 +127,8 @@ a {
         top: 100%;
         padding: 10px 0px;
         box-shadow: 0px 0px 5px #ced5e3;
+        z-index: 999;
+        background-color: white;
         /* width: 500px; */
     }
 
