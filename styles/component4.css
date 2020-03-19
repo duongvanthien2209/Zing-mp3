@@ -12,9 +12,7 @@ a {
 }
 
 /* Wrapper Content */
-.wrapper-content {
-    
-}
+
     /* Wrapper Content Top */
     .wrapper-content-top {
         display: flex;
@@ -152,9 +150,6 @@ a {
             display: flex;
             flex-direction: column;
             justify-content: space-between;
-        }
-
-        .bottom-item-right h4 {
         }
 
         .bottom-item-right p {
